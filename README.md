@@ -65,6 +65,8 @@ Ou diretamente pelo executavel do ambiente:
 |-- README.md               # Documentacao
 |-- .gitignore              # Arquivos locais ignorados pelo Git
 `-- .vscode/settings.json   # Interpretador recomendado no VS Code
+|-- .github/workflows/      # Verificacao automatica de sintaxe
+`-- LICENSE                 # Licenca MIT
 ```
 
 ## Como o rastreamento funciona
@@ -91,4 +93,4 @@ py -3.12 controle_mao_pygame.py
 
 ## Licenca
 
-Este projeto esta disponivel para estudo e modificacao. Escolha uma licenca antes de publicar uma versao distribuida no GitHub.
+Este projeto esta sob a [licenca MIT](LICENSE). Voce pode estudar, modificar e redistribuir o codigo respeitando os termos do arquivo de licenca.
