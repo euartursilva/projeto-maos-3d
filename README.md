@@ -64,7 +64,7 @@ Ou diretamente pelo executavel do ambiente:
 |-- requirements.txt        # Dependencias do projeto
 |-- README.md               # Documentacao
 |-- .gitignore              # Arquivos locais ignorados pelo Git
-`-- .vscode/settings.json   # Interpretador recomendado no VS Code
+|-- .vscode/settings.json   # Interpretador recomendado no VS Code
 |-- .github/workflows/      # Verificacao automatica de sintaxe
 `-- LICENSE                 # Licenca MIT
 ```
